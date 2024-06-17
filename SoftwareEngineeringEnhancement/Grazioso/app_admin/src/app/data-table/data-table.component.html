@@ -1,0 +1,42 @@
+<div *ngIf="isLoading" class="loading">
+  Loading data from database...
+</div>
+
+<div class="container">
+  <div class="table-header">
+    <div *ngIf="!isLoading && animals.length > 0" class="dropdown">
+      <select [(ngModel)]="selection" (change)="onSelectionChange($event)">
+        <option value=0>None</option>
+        <option value=1>Water</option>
+        <option value=2>Mountain or Wilderness</option>
+        <option value=3>Disaster or Individual Tracking</option>
+      </select>
+
+      <div class="result-count">
+        Number of results: {{ numResults }}
+      </div>
+    </div>
+  </div>
+
+  <div class="scroll-panel">
+    <div *ngIf="!isLoading && animals.length > 0" class="table-container">
+      <table>
+        <thead>
+          <tr>
+            <th *ngFor="let header of headers">{{ header }}</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr *ngFor="let row of animals">
+            <td *ngFor="let header of headers">{{ row[header] }}</td>
+          </tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+</div>
+
+<div *ngIf="!isLoading && animals.length === 0">
+  <p>Database collection is empty or the server cannot be reached.</p>
+  <p>Please launching the Express application and navigate to http://localhost:3000</p>
+</div>
