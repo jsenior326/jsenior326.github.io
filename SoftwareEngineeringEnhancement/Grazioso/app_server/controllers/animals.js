@@ -11,7 +11,6 @@ const animals = async function(req, res, next) {
     await fetch(animalsEndpoint, options)
         .then(res => res.json())
         .then(json => {
-            // console.log(json);
             let message = null;
             if(!(json instanceof Array)) {
                 message = 'API lookup error';

@@ -26,12 +26,20 @@ async function seedDatabase() {
         .on('end', async () => {
             console.log('Attempting to seed database');
             try {
+                // Add indexes to collection
+                collection.createIndex({animal_type: 1});
+                collection.createIndex({breed: 1});
+                collection.createIndex({sex_upon_outcome: 1});
+                collection.createIndex({age_upon_outcome_in_weeks: 1});
+                
+                // Check for existing data
                 const existingData = await collection.find({}).toArray();
                 if (existingData.length === 0) {
                     await collection.insertMany(records);
                     console.log('Data has been seeded for the \'' 
                                 + myCollection + '\' collection in the \''
                                 + myDatabase + '\' database.');
+                    
                 } else {
                     console.log('Aborted. \'' + myCollection + '\' collection already contains data.');
                 }

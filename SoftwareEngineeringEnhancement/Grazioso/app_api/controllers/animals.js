@@ -16,7 +16,6 @@ const animalsList = async (req, res) => {
         
         // Execute query and return result
         const data = await collection.find({}).toArray();
-        console.log('Data fetched successfully');
 
         return res.status(200).json(data);
     } catch (err){
@@ -27,6 +26,29 @@ const animalsList = async (req, res) => {
         }
     }
     
+};
+
+// Returns a single animal
+const getAnimalById = async (req, res) => {
+    let client;
+    try{
+        // Connect to database
+        const client = new MongoClient(mongoURL, {});
+        await client.connect();
+        const db = client.db(myDatabase);
+        const collection = db.collection(myCollection);
+        
+        // Execute query and return result
+        const data = await collection.findOne({animal_id: req.params.animal_id});
+        
+        return res.status(200).json(data);
+    } catch (err){
+        return res.status(500).send(err);
+    } finally {
+        if (client) {
+            client.close();
+        }
+    }
 };
 
 // Returns animals filtered by Water rescues
@@ -131,9 +153,69 @@ const disasterIndividualRescues = async (req, res) => {
     }
 };
 
+// Updates a single animal
+const updateAnimal = async (req, res) => {
+    let client;
+    try {
+        // Connect to database
+        const client = new MongoClient(mongoURL, {});
+        await client.connect();
+        const db = client.db(myDatabase);
+        const collection = db.collection(myCollection);
+
+        const result = await collection.updateOne(
+            { animal_id: req.params.animal_id },
+            { $set: req.body }
+        );
+        
+        if (result.matchedCount === 0) {
+            return res.status(404).send({message: 'Animal not found with id ' + req.params.animal_id});
+        }
+
+        return res.status(200).json({message: 'Animal updated'});
+    } catch (err){
+        return res.status(500).send(err);
+    } finally {
+        if (client) {
+            client.close();
+        }
+    }
+};
+
+// Deletes a single animal
+const deleteAnimal = async (req, res) => {
+    let client;
+    try {
+        // Connect to database
+        const client = new MongoClient(mongoURL, {});
+        await client.connect();
+        const db = client.db(myDatabase);
+        const collection = db.collection(myCollection);
+
+        const result = await collection.deleteOne(
+            { animal_id: req.params.animal_id },
+        );
+        
+        if (result.matchedCount === 0) {
+            return res.status(404).send({message: 'Animal not found with id ' + req.params.animal_id});
+        }
+
+        return res.status(200).json({message: 'Animal deleted'});
+    } catch (err){
+        return res.status(500).send(err);
+    } finally {
+        if (client) {
+            client.close();
+        }
+    }
+}
+
 module.exports = {
     animalsList,
+    getAnimalById,
     waterRescues,
     mountainWildernessRescues,
-    disasterIndividualRescues
+    disasterIndividualRescues,
+    updateAnimal,
+    deleteAnimal
 };
