@@ -1,0 +1,13 @@
+<header class="header">
+    <div class="header-logo">
+      <img src="assets/GraziosoSalvareLogo.png" alt="Grazioso Salvare Logo">
+    </div>
+    <div class="header-log">
+      <a class="navbar-item" href="/login" *ngIf="!isLoggedIn()">
+        <span class="has-icon-left">Log In</span>
+      </a>
+      <a class="header-log" (click)="onLogout()" href="" *ngIf="isLoggedIn()">
+        <span class="has-icon-left">Log Out</span>
+      </a>
+    </div>
+  </header>
