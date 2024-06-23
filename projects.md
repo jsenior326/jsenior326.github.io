@@ -12,7 +12,7 @@ layout: default
 <a id="SoftwareEngineering"></a>
 # Software Engineering
 
-<li><a href="[{{ site.github.zip_url }}](https://github.com/jsenior326/jsenior326.github.io/blob/e0e8a5cf693bddea3f75bebe63fb413a57fc4e6c/projects.md)">Download <strong>ZIP File</strong></a></li>
+<li class="downloads"><a href="https://github.com/jsenior326/jsenior326.github.io/blob/e0e8a5cf693bddea3f75bebe63fb413a57fc4e6c/projects.md">Download <strong>ZIP File</strong></a></li>
 
 ## Narrative
 This is a narrative for software engineering.
@@ -20,7 +20,7 @@ This is a narrative for software engineering.
 <a id="AlgorithmsAndDataStructures"></a>
 # Algorithms and Data Structures
 
-<li><a href="[{{ site.github.zip_url }}](https://github.com/jsenior326/jsenior326.github.io/blob/e0e8a5cf693bddea3f75bebe63fb413a57fc4e6c/projects.md)">Download <strong>ZIP File</strong></a></li>
+<li class="downloads"><a href="https://github.com/jsenior326/jsenior326.github.io/blob/e0e8a5cf693bddea3f75bebe63fb413a57fc4e6c/projects.md">Download <strong>ZIP File</strong></a></li>
 
 ## Narrative
   This is a narrative for algorithms and data structures.
@@ -28,7 +28,7 @@ This is a narrative for software engineering.
 <a id="Databases"></a>
 # Databases
 
-<li><a href="[{{ site.github.zip_url }}](https://github.com/jsenior326/jsenior326.github.io/blob/e0e8a5cf693bddea3f75bebe63fb413a57fc4e6c/projects.md)">Download <strong>ZIP File</strong></a></li>
+<li class="downloads"><a href="https://github.com/jsenior326/jsenior326.github.io/blob/e0e8a5cf693bddea3f75bebe63fb413a57fc4e6c/projects.md">Download <strong>ZIP File</strong></a></li>
 
 ## Narrative
 \tThis is a narrative for databases.
