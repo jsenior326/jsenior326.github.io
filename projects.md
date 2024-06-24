@@ -25,6 +25,11 @@ This enhancement was my first time ever transferring a project from one programm
 # Algorithms and Data Structures
 
 [Download Zip File](./AlgorithmsAndDataStructuresEnhancement/GrandStrandSystems.zip)
+<ul class="downloads">
+  <li><a href="./AlgorithmsAndDataStructuresEnhancement/GrandStrandSystems.zip">Download <strong>Enhancement ZIP</strong></a></li>
+  <li><a href="./AlgorithmsAndDataStructuresEnhancement/OriginalAlgorithmsAndDataStructuresArtifact.zip">Download <strong>Original ZIP</strong></a></li>
+  <li><a href="./AlgorithmsAndDataStructuresEnhancement">View On <strong>GitHub</strong></a></li>
+</ul>
 
 ## Narrative
 The artifact that was enhanced for this milestone was originally a mock application for Grand Strand Systems. The application had three classes, Appointment, Contact, and Task, which each had their own service classes. These classes provided functionality for adding, updating, and removing the respective items from their service class's list. This application's main purpose was to show my ability to thoroughly test the application with unit testing. This artifact was originally created in November of 2023 while taking CS 320 Test Automation & Quality Assurance at Southern New Hampshire University. 
