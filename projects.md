@@ -24,11 +24,10 @@ This enhancement was my first time ever transferring a project from one programm
 <a id="AlgorithmsAndDataStructures"></a>
 # Algorithms and Data Structures
 
-[Download Zip File](./AlgorithmsAndDataStructuresEnhancement/GrandStrandSystems.zip)
 <ul class="downloads">
   <li><a href="./AlgorithmsAndDataStructuresEnhancement/GrandStrandSystems.zip">Download <strong>Enhancement ZIP</strong></a></li>
   <li><a href="./AlgorithmsAndDataStructuresEnhancement/OriginalAlgorithmsAndDataStructuresArtifact.zip">Download <strong>Original ZIP</strong></a></li>
-  <li><a href="./AlgorithmsAndDataStructuresEnhancement">View On <strong>GitHub</strong></a></li>
+  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/AlgorithmsAndDataStructuresEnhancement">View On <strong>GitHub</strong></a></li>
 </ul>
 
 ## Narrative
