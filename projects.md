@@ -44,7 +44,11 @@ Enhancing this artifact provided me with more experience working with more compl
 <a id="Databases"></a>
 # Databases
 
-[Download Zip File](./DatabaseEnhancement/Grazioso-Databases.zip)
+<ul class="downloads">
+  <li><a href="DatabaseEnhancement/Grazioso-Databases.zip">Download <b>Enhancement</b></a></li>
+  <li><a href="DatabaseEnhancement/OriginalDatabaseArtifact.zip">Download <b>Original</b></a></li>
+  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/DatabaseEnhancement">View On <b>GitHub</b></a></li>
+</ul>
 
 ## Narrative
 The artifact enhanced for this milestone is the same one enhanced in the software engineering section. That artifact was a web application that populated a database using a CSV file and then read and filtered data from it. 
