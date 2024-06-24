@@ -12,7 +12,11 @@ layout: default
 <a id="SoftwareEngineering"></a>
 # Software Engineering
 
-[Download Zip File](./SoftwareEngineeringEnhancement/Grazioso-SoftwareEngineering.zip)
+<ul class="downloads">
+  <li><a href="SoftwareEngineeringEnhancement/Grazioso-SoftwareEngineering.zip">Download <b>Enhancement</b></a></li>
+  <li><a href="SoftwareEngineeringEnhancement/OriginalSoftwareEngineeringArtifact.zip">Download <b>Original</b></a></li>
+  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/SoftwareEngineeringEnhancement">View On <b>GitHub</b></a></li>
+</ul>
 
 ## Narrative
 The artifact that was enhanced for this milestone was originally a Python web application concept for Grazioso Salvare. Grazioso Salvare was a mock company that needed a web application to read and filter data from their database. This artifact was originally created in February of 2024 while taking CS 340 Client Server Development at Southern New Hampshire University. 
@@ -25,9 +29,9 @@ This enhancement was my first time ever transferring a project from one programm
 # Algorithms and Data Structures
 
 <ul class="downloads">
-  <li><a href="./AlgorithmsAndDataStructuresEnhancement/GrandStrandSystems.zip">Download <strong>Enhancement ZIP</strong></a></li>
-  <li><a href="./AlgorithmsAndDataStructuresEnhancement/OriginalAlgorithmsAndDataStructuresArtifact.zip">Download <strong>Original ZIP</strong></a></li>
-  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/AlgorithmsAndDataStructuresEnhancement">View On <strong>GitHub</strong></a></li>
+  <li><a href="./AlgorithmsAndDataStructuresEnhancement/GrandStrandSystems.zip">Download <b>Enhancement ZIP</b></a></li>
+  <li><a href="./AlgorithmsAndDataStructuresEnhancement/OriginalAlgorithmsAndDataStructuresArtifact.zip">Download <b>Original ZIP</b></a></li>
+  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/AlgorithmsAndDataStructuresEnhancement">View On <b>GitHub</b></a></li>
 </ul>
 
 ## Narrative
