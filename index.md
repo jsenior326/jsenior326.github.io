@@ -10,6 +10,7 @@ Welcome to my ePortfolio! I am a dedicated and motivated computer science gradua
 
 From an early stage in my academic career, I understood the importance of not just building technical skills but also developing a programming mindset. This mindset has guided me to design and develop software that adheres to industry standards and values scalability and maintainability. I firmly believe that the essence of a quality computer scientist lies in their approach to software development, and I strive to embody this belief in all my projects.
 
+<hr>
 # Technical Skills and Areas of Expertise
 
 Throughout my education, I have gained expertise in various technical areas:
@@ -19,6 +20,7 @@ Throughout my education, I have gained expertise in various technical areas:
 * Unit Testing and Version Control: Experienced in using tools like Git and JUnit to ensure code quality and manage version control.
 * Security Practices: Equipped with a security mindset to anticipate and address vulnerabilities during software development.
 
+<hr>
 # Projects
 
 I have worked on several [projects](./projects) that demonstrate my technical skills and ability to work effectively in team environments:
@@ -26,6 +28,7 @@ I have worked on several [projects](./projects) that demonstrate my technical sk
 * Project False God: As the lead programmer, I am working on a co-op puzzle horror video game planned for release on Steam in late 2025. This project has honed my teamwork skills, as well as my proficiency in Unreal Engine, C++, and Perforce.
 * Mobile Event Tracker: Engineered a mobile application using Java and SQLite, which allows users to save events to a mobile calendar, ensuring a seamless user experience.
 
+<hr>
 # Passion for Learning and Growth
 
 My education in computer science has not only equipped me with technical skills but also fostered a continuous desire to learn and grow. I am passionate about creating software that I enjoy and am proud of, and I am committed to upholding high standards and expectations for myself in my professional endeavors.
