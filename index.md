@@ -19,9 +19,9 @@ Throughout my education, I have gained expertise in various technical areas:
 * Unit Testing and Version Control: Experienced in using tools like Git and JUnit to ensure code quality and manage version control.
 * Security Practices: Equipped with a security mindset to anticipate and address vulnerabilities during software development.
 
-# Projects
+# [Projects](./projects)
 
-I have worked on several projects that demonstrate my technical skills and ability to work effectively in team environments:
+I have worked on several [projects](./projects) that demonstrate my technical skills and ability to work effectively in team environments:
 * Travelr Getaways: Developed a full-stack web application facilitating online trip bookings. This project utilized technologies like JavaScript, MongoDB, Express, Angular, Node.js, and REST APIs.
 * Project False God: As the lead programmer, I am working on a co-op puzzle horror video game planned for release on Steam in late 2025. This project has honed my teamwork skills, as well as my proficiency in Unreal Engine, C++, and Perforce.
 * Mobile Event Tracker: Engineered a mobile application using Java and SQLite, which allows users to save events to a mobile calendar, ensuring a seamless user experience.
