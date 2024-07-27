@@ -7,7 +7,7 @@ layout: default
 [<- Back](/projects)
 
 # Travelr Getaways Gallery
-
+<hr>
 ## Client-Facing Application
 <hr>
 
@@ -16,7 +16,7 @@ layout: default
 
 ### Trip Listing Page
 ![Trip Listing Page Image](./Photos/TravelrPhotos/TravelrBookingsPage.JPG)
-
+<hr>
 ## Admin-Facing Application
 <hr>
 
