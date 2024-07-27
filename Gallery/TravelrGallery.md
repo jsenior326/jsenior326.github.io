@@ -2,9 +2,9 @@
 layout: default
 ---
 
-[Home](./) | [Projects](./projects)
+[Home](/) | [Projects](/projects)
 
-[<- Back](./projects)
+[<- Back](/projects.md)
 
 # Travelr Getaways Gallery
 
