@@ -14,15 +14,15 @@ layout: default
 The project is still in the early stages of development. These screenshots are not representative of the final product and are for demonstration purposes only.
 
 ### Hallway
-![Hallway Image](Gallery/Photos/FalseGodPhotos/FalseGodHallway.JPG)
+![Hallway Image](./Photos/FalseGodPhotos/FalseGodHallway.JPG)
 
-![Hallway Image](Gallery/Photos/FalseGodPhotos/FalseGodHallway2.JPG)
+![Hallway Image](./Photos/FalseGodPhotos/FalseGodHallway2.JPG)
 
 ### Office
-![Office Image](Gallery/Photos/FalseGodPhotos/FalseGodOffice.JPG)
+![Office Image](./Photos/FalseGodPhotos/FalseGodOffice.JPG)
 
 ### Code Lock Puzzle
-![Code Lock Image](Gallery/Photos/FalseGodPhotos/FalseGodCodeLock.JPG)
+![Code Lock Image](./Photos/FalseGodPhotos/FalseGodCodeLock.JPG)
 
 ### Library
-![Library Image](Gallery/Photos/FalseGodPhotos/FalseGodLibrary.JPG)
+![Library Image](./Photos/FalseGodPhotos/FalseGodLibrary.JPG)
