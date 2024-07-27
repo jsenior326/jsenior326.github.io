@@ -2,7 +2,7 @@
 layout: default
 ---
 
-[Home](./) | | [Projects](./projects)
+[Home](./) | [Projects](./projects)
 
 # Biography
 
@@ -19,7 +19,7 @@ Throughout my education, I have gained expertise in various technical areas:
 * Unit Testing and Version Control: Experienced in using tools like Git and JUnit to ensure code quality and manage version control.
 * Security Practices: Equipped with a security mindset to anticipate and address vulnerabilities during software development.
 
-# [Projects](./projects)
+# Projects
 
 I have worked on several [projects](./projects) that demonstrate my technical skills and ability to work effectively in team environments:
 * Travelr Getaways: Developed a full-stack web application facilitating online trip bookings. This project utilized technologies like JavaScript, MongoDB, Express, Angular, Node.js, and REST APIs.
