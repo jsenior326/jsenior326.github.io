@@ -23,6 +23,7 @@
 
         {% if site.email %}
           <p>Contact:<br>&emsp;{{ site.email }}</p>
+          <p class="view"><a href="{{ site.linkedin }}"> Linkedin Profile</a></p>
         {% endif %}
 
         <p>{{ site.description | default: site.github.project_tagline }}</p>
