@@ -52,7 +52,6 @@ Our team meets weekly to discuss progress, address challenges, and plan future i
 <hr>
 <a id="MobileEventTracker"></a>
 # Mobile Event Tracker
-<a href="https://github.com/jsenior326/CS360MobileArchitect-Programming">View On GitHub</a>
 <hr>
 
 ## Overview
