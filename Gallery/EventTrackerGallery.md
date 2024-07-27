@@ -10,10 +10,10 @@ layout: default
 <hr>
 
 ### Log In Screen
-![Log In Screen Image](Gallery/Photos/EventTrackerPhotos/EventTrackerLogin.JPG)
+![Log In Screen Image](./Photos/EventTrackerPhotos/EventTrackerLogin.JPG)
 
 ### Calendar Screen
-![Calendar Screen Image](Gallery/Photos/EventTrackerPhotos/EventTrackerCalendar.JPG)
+![Calendar Screen Image](./Photos/EventTrackerPhotos/EventTrackerCalendar.JPG)
 
 ### Add Event Screen
-![Add Event Screen Image](Gallery/Photos/EventTrackerPhotos/EventTrackerAddEvent.JPG)
+![Add Event Screen Image](./Photos/EventTrackerPhotos/EventTrackerAddEvent.JPG)
