@@ -12,8 +12,8 @@ layout: default
 <hr>
 <a id="TravelrGetaways"></a>
 # Travelr Getaways
-<hr>
 <a href="https://github.com/jsenior326/Travelr-Getaways">View On Github</a>
+<hr>
 
 ## Overview
 Developed a concept full-stack web application for a mock company Travelr Getaways, showcasing my skills in modern web development technologies. This web application leverages the MEAN (MongoDB, Express, Angular, and Node.js) stack framework and integrates a RESTful API to provide robust and efficient functionalities for both customers and administrators.
@@ -52,8 +52,8 @@ Our team meets weekly to discuss progress, address challenges, and plan future i
 <hr>
 <a id="MobileEventTracker"></a>
 # Mobile Event Tracker
-<hr>
 <a href="https://github.com/jsenior326/CS360MobileArchitect-Programming">View On GitHub</a>
+<hr>
 
 ## Overview
 
