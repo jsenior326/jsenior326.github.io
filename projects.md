@@ -56,5 +56,14 @@ Our team meets weekly to discuss progress, address challenges, and plan future i
 <hr>
 
 ## Overview
+The Mobile Event Tracker is a mobile application that allows users to store and manage events in a mobile calendar. This project demonstrates my ability to develop user-friendly and efficient mobile applications with persistent database storage, ensuring that users can keep track of their events across sessions.
+
+<b>Key Features:</b>
+
+* Persistent Database Storage: The application employs a robust database system to store users and events, ensuring that all data is preserved even after the application is closed.
+* Event Management: Users can easily add, view, edit, and delete events on a calendar, providing full control of their schedule.
+* Intuitive User Interface: The app features an intuitive and visually appealing user interface that adheres to industry-standard design principles. This design approach provides visual consistency and a smooth user experience, making the app easy to navigate.
+
+<b>Technologies Used: Java, XML, Android Studio, SQLite</b>
 
 ## [Gallery](Gallery/EventTrackerGallery.md)
