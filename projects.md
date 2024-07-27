@@ -9,9 +9,10 @@ layout: default
 * [Project False God](#ProjectFalseGod)
 * [Mobile Event Tracker](#MobileEventTracker)
 
+<hr>
 <a id="TravelrGetaways"></a>
 # Travelr Getaways
-
+<hr>
 <a href="https://github.com/jsenior326/Travelr-Getaways">View On Github</a>
 
 ## Overview
@@ -25,16 +26,18 @@ The administrative interface is a single-page application (SPA) developed with A
 
 ## [Gallery](Gallery/TravelrGallery.md)
 
+<hr>
 <a id="ProjectFalseGod"></a>
 # Project False God
-
+<hr>
 ## Overview
 
 ## [Gallery](Gallery/FalseGodGallery.md)
 
+<hr>
 <a id="MobileEventTracker"></a>
 # Mobile Event Tracker
-
+<hr>
 <a href="https://github.com/jsenior326/CS360MobileArchitect-Programming">View On GitHub</a>
 
 ## Overview
