@@ -1,9 +1,9 @@
 ---
 layout: default
 ---
-
+<div style="text-align:center">
 [Home](./) | [Projects](./projects)
-
+</div>
 # Biography
 
 Welcome to my ePortfolio! I am a dedicated and motivated computer science graduate from Southern New Hampshire University, with a strong foundation in programming and software development. My journey in computer science has equipped me with both a robust technical skillset and a problem-solving mindset essential for designing and developing high-quality software.
