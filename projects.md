@@ -42,6 +42,7 @@ As the lead programmer, I am responsible for developing the core mechanics of th
 * In-Game Features: Creating various interactive in-game features that allow for intuitive gameplay and enhance the player experience.
 
 <b>Team Collaboration</b>
+
 Our team meets weekly to discuss progress, address challenges, and plan future iterations. This approach ensures all team members are aligned and can contribute ideas towards the project's success. Having open communication and shared goals fosters a productive and enjoyable work environment.
 
 <b>Technologies Used: C++, Unreal Engine, Jira, Perforce, Discord</b>
