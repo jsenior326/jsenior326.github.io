@@ -2,7 +2,7 @@
 layout: default
 ---
 
-<center>[Home](./)</center> | <center>[Projects](./projects)</center>
+[Home](./) | | [Projects](./projects)
 
 # Biography
 
