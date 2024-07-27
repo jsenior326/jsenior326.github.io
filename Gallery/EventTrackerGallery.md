@@ -11,9 +11,9 @@ layout: default
 
 ### Log In Screen
 ![Log In Screen Image](./Photos/EventTrackerPhotos/EventTrackerLogin.JPG)
-
+<hr>
 ### Calendar Screen
 ![Calendar Screen Image](./Photos/EventTrackerPhotos/EventTrackerCalendar.JPG)
-
+<hr>
 ### Add Event Screen
 ![Add Event Screen Image](./Photos/EventTrackerPhotos/EventTrackerAddEvent.JPG)
