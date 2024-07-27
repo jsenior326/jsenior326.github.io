@@ -4,11 +4,11 @@ layout: default
 
 [Home](/) | [Projects](/projects)
 
-[<- Back](/projects.md)
+[<- Back](/projects)
 
 # Travelr Getaways Gallery
 
-## Client-Facing Application<hr>
+## Client-Facing Application---
 
 ### Home Page
 ![Travelr Getaways Home Page Image](./Photos/TravelrPhotos/TravelrHomePage.JPG)
@@ -16,7 +16,7 @@ layout: default
 ### Trip Listing Page
 ![Trip Listing Page Image](./Photos/TravelrPhotos/TravelrBookingsPage.JPG)
 
-## Admin-Facing Application<hr>
+## Admin-Facing Application---
 
 ### Unauthenticated Home Page
 ![Unauthenticated Home Page Image](./Photos/TravelrPhotos/AdminNoLog.JPG)
