@@ -5,34 +5,24 @@ layout: default
 [Home](./) | [Projects](./projects)
 
 # Table of Contents
-* [Software Engineering](#SoftwareEngineering)
-* [Algorithms and Data Structures](#AlgorithmsAndDataStructures)
-* [Databases](#Databases)
+* [Travelr Getaways](#TravelrGetaways)
+* [Project False God](#ProjectFalseGod)
+* [Mobile Event Tracker](#MobileEventTracker)
 
-<a id="SoftwareEngineering"></a>
-# Software Engineering
+<a id="TravelrGetaways"></a>
+# Travelr Getaways
 
-<ul class="downloads">
-  <li><a href="SoftwareEngineeringEnhancement/Grazioso-SoftwareEngineering.zip">Download <b>Enhancement</b></a></li>
-  <li><a href="SoftwareEngineeringEnhancement/OriginalSoftwareEngineeringArtifact.zip">Download <b>Original</b></a></li>
-  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/SoftwareEngineeringEnhancement">View On <br><b>GitHub</b></a></li>
-</ul>
+<a href="https://github.com/jsenior326/Travelr-Getaways">View On Github</a>
 
-## Narrative
-The artifact that was enhanced for this milestone was originally a Python web application concept for Grazioso Salvare. Grazioso Salvare was a mock company that needed a web application to read and filter data from their database. This artifact was originally created in February of 2024 while taking CS 340 Client Server Development at Southern New Hampshire University. 
+## Overview
+Developed a concept full-stack web application for a mock company Travelr Getaways, showcasing my skills in modern web development technologies. This web application leverages the MEAN (MongoDB, Express, Angular, and Node.js) stack framework and integrates a RESTful API to provide robust and efficient functionalities for both customers and administrators.
 
-The enhancement I performed on this artifact was transferring the project to Java, using the MEAN (MongoDB, Express, Angular, and Node.js) stack framework and integrating a RESTful API. I chose to include this project in my ePortfolio for several reasons. For one, this kind of project demonstrates a wide variety of my skills as a computer scientist. For example, experience working with powerful languages and frameworks, and the ability to design and develop scalable and easily maintainable software. This project is also a good concept for kickstarting my career as a software engineer. Since the project provides a concept application that is frequently used and required for many companies to operate, it would be an attractive piece for gaining attention from smaller companies looking to develop a similar web application. I value this attention from smaller companies as it provides great potential for allowing me to get a footing in the computer science field and gain experience. Additionally, this project would aid me in achieving proficiency in two of the course outcomes; employing strategies for building collaborative environments that enable diverse audiences to support organizational decision-making in the field of computer science, and demonstrating an ability to use well-founded and innovative techniques, skills, and tools in computing practices for the purpose of implementing computer solutions that deliver value and accomplish industry-specific goals (software engineering/design/database). 
+The client-facing portion of the application is designed to be dynamic and user-friendly, built using Express and JavaScript. It features a multi-page front-end that allows customers to seamlessly navigate through various sections of the website and book trips with ease. This part of the application demonstrates my ability to create responsive and interactive web pages that enhance the user experience.
 
-This enhancement was my first time ever transferring a project from one programming language to another. This process was a great learning experience, helping me to learn some of the strengths and weaknesses of the different languages used in the project. For example, it was much easier to connect to and communicate with the database, as well as build the data table in Python. However, Java provides better scalability and reusability and allows for easily developing both a client-facing web application and an administrative web application. One challenge I faced was trying to recreate the functionality of the data table in Java. The Python version used a module that made it easy to provide filtering and sorting options for the data table. This was more difficult to accomplish in Java and took more time to do than when working with Python.
+The administrative interface is a single-page application (SPA) developed with Angular, providing administrators with the tools to manage trip information effectively. Administrators can add, edit, and delete trip entries in the database, ensuring that the content remains current and accurate. This SPA also implements authentication using JSON Web Tokens to secure the application and prevent unauthorized access, highlighting my understanding of security practices in web development.
 
-<a id="AlgorithmsAndDataStructures"></a>
-# Algorithms and Data Structures
-
-<ul class="downloads">
-  <li><a href="./AlgorithmsAndDataStructuresEnhancement/GrandStrandSystems.zip">Download <b>Enhancement</b></a></li>
-  <li><a href="./AlgorithmsAndDataStructuresEnhancement/OriginalAlgorithmsAndDataStructuresArtifact.zip">Download <b>Original</b></a></li>
-  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/AlgorithmsAndDataStructuresEnhancement">View On <br><b>GitHub</b></a></li>
-</ul>
+<a id="ProjectFalseGod"></a>
+# Project False God
 
 ## Narrative
 The artifact that was enhanced for this milestone was originally a mock application for Grand Strand Systems. The application had three classes, Appointment, Contact, and Task, which each had their own service classes. These classes provided functionality for adding, updating, and removing the respective items from their service class's list. This application's main purpose was to show my ability to thoroughly test the application with unit testing. This artifact was originally created in November of 2023 while taking CS 320 Test Automation & Quality Assurance at Southern New Hampshire University. 
@@ -41,14 +31,10 @@ The enhancement I performed on this artifact was implementing several algorithms
 
 Enhancing this artifact provided me with more experience working with more complicated algorithms and data structures. While I have worked with most of these algorithms and data structures in the past, this project was a good way of refamiliarizing myself with these concepts. This enhancement also allowed me to learn more about the strengths and weaknesses of the algorithms and data structures used which I was previously unaware of. I also gained experience performing performance testing on the software. Performance testing is a great skill to learn as it can be very helpful for measuring and improving the efficiency of programs.
 
-<a id="Databases"></a>
-# Databases
+<a id="MobileEventTracker"></a>
+# Mobile Event Tracker
 
-<ul class="downloads">
-  <li><a href="DatabaseEnhancement/Grazioso-Databases.zip">Download <b>Enhancement</b></a></li>
-  <li><a href="DatabaseEnhancement/OriginalDatabaseArtifact.zip">Download <b>Original</b></a></li>
-  <li><a href="https://github.com/jsenior326/jsenior326.github.io/tree/main/DatabaseEnhancement">View On <br><b>GitHub</b></a></li>
-</ul>
+<a href="https://github.com/jsenior326/CS360MobileArchitect-Programming">View On GitHub</a>
 
 ## Narrative
 The artifact enhanced for this milestone is the same one enhanced in the software engineering section. That artifact was a web application that populated a database using a CSV file and then read and filtered data from it. 
