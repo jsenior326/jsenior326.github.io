@@ -22,7 +22,7 @@ The client-facing portion of the application is designed to be dynamic and user-
 
 The administrative interface is a single-page application (SPA) developed with Angular, providing administrators with the tools to manage trip information effectively. Administrators can add, edit, and delete trip entries in the database, ensuring that the content remains current and accurate. This SPA also implements authentication using JSON Web Tokens to secure the application and prevent unauthorized access, highlighting my understanding of security practices in web development.
 
-<b>Technologies Used:<b/> MongoDB, Express, Angular, Node.js, MongoDB Compass, Postman, REST, JSON, JavaScript, Git
+<b>Technologies Used: MongoDB, Express, Angular, Node.js, MongoDB Compass, Postman, REST, JSON, JavaScript, Git</b>
 
 ## [Gallery](Gallery/TravelrGallery.md)
 
@@ -31,6 +31,20 @@ The administrative interface is a single-page application (SPA) developed with A
 # Project False God
 <hr>
 ## Overview
+Project False God is a thrilling co-op horror video game currently under development, with an anticipated release on Steam in late 2025. This project is being developed by a dynamic team of six, utilizing Unreal Engine and Perforce for version control.
+
+<b>My Role: Lead Programmer</b>
+
+As the lead programmer, I am responsible for developing the core mechanics of the game, ensuring a seamless and immersive experience for the players. Some of my contributions so far include:
+* Multiplayer Plugin: Implemented robust multiplayer functionality to support co-op gameplay.
+* Inventory System: Designed an intuitive and efficient inventory system for players to manage items.
+* Save and Load System: Developed a reliable save system to ensure player progress is accurately recorded and can be resumed at any time.
+* In-Game Features: Creating various interactive in-game features that allow for intuitive gameplay and enhance the player experience.
+
+<b>Team Collaboration</b>
+Our team meets weekly to discuss progress, address challenges, and plan future iterations. This approach ensures all team members are aligned and can contribute ideas towards the project's success. Having open communication and shared goals fosters a productive and enjoyable work environment.
+
+<b>Technologies Used: C++, Unreal Engine, Jira, Perforce, Discord</b>
 
 ## [Gallery](Gallery/FalseGodGallery.md)
 
