@@ -8,7 +8,7 @@ layout: default
 
 # Travelr Getaways Gallery
 
-## Client-Facing Application
+## Client-Facing Application<hr>
 
 ### Home Page
 ![Travelr Getaways Home Page Image](./Photos/TravelrPhotos/TravelrHomePage.JPG)
@@ -16,7 +16,7 @@ layout: default
 ### Trip Listing Page
 ![Trip Listing Page Image](./Photos/TravelrPhotos/TravelrBookingsPage.JPG)
 
-## Admin-Facing Application
+## Admin-Facing Application<hr>
 
 ### Unauthenticated Home Page
 ![Unauthenticated Home Page Image](./Photos/TravelrPhotos/AdminNoLog.JPG)
