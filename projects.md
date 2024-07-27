@@ -21,6 +21,8 @@ The client-facing portion of the application is designed to be dynamic and user-
 
 The administrative interface is a single-page application (SPA) developed with Angular, providing administrators with the tools to manage trip information effectively. Administrators can add, edit, and delete trip entries in the database, ensuring that the content remains current and accurate. This SPA also implements authentication using JSON Web Tokens to secure the application and prevent unauthorized access, highlighting my understanding of security practices in web development.
 
+<b>Technologies Used:<b/> MongoDB, Express, Angular, Node.js, MongoDB Compass, Postman, REST, JSON, JavaScript, Git
+
 ## Gallery
 
 <a id="ProjectFalseGod"></a>
