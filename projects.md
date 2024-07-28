@@ -24,7 +24,7 @@ The administrative interface is a single-page application (SPA) developed with A
 
 <b>Technologies Used: MongoDB, Express, Angular, Node.js, MongoDB Compass, Postman, REST, JSON, JavaScript, Git</b>
 
-## [Gallery](Gallery/TravelrGallery.md)
+## [View Gallery](Gallery/TravelrGallery.md)
 
 <hr>
 <a id="ProjectFalseGod"></a>
@@ -47,7 +47,7 @@ Our team meets weekly to discuss progress, address challenges, and plan future i
 
 <b>Technologies Used: C++, Unreal Engine, Jira, Perforce, Discord</b>
 
-## [Gallery](Gallery/FalseGodGallery.md)
+## [View Gallery](Gallery/FalseGodGallery.md)
 
 <hr>
 <a id="MobileEventTracker"></a>
@@ -65,4 +65,4 @@ The Mobile Event Tracker is a mobile application that allows users to store and 
 
 <b>Technologies Used: Java, XML, Android Studio, SQLite</b>
 
-## [Gallery](Gallery/EventTrackerGallery.md)
+## [View Gallery](Gallery/EventTrackerGallery.md)
