@@ -2,6 +2,7 @@ remote_theme: pages-themes/minimal@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Jacob Senior ePortfolio
+logo: /Gallery/JacobSeniorHeadshot.png
 email: jacobsen2601@gmail.com
 name: Jacob Senior<br>Software Engineer
 linkedin: www.linkedin.com/in/jacobsenior326
