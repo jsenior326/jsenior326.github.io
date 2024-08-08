@@ -47,8 +47,6 @@ Our team meets weekly to discuss progress, address challenges, and plan future i
 
 <b>Technologies Used: C++, Unreal Engine, Jira, Perforce, Discord</b>
 
-## [View Gallery](Gallery/FalseGodGallery.md)
-
 <hr>
 <a id="MobileEventTracker"></a>
 # Mobile Event Tracker
